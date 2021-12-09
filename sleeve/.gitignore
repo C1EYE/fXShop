@@ -1,0 +1,8 @@
+/node_modules
+/miniprogram_npm
+/package-lock.json
+/project.config.json
+.idea/
+.idea/*
+.DS_Store
+sitemap.json
